@@ -1,3 +1,5 @@
+Little modification to make it working with jetty7
+
 # Ring-Serve
 
 Ring-Serve provides a convenient way of starting a web server for a
